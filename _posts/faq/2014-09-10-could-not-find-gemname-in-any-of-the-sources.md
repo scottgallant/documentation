@@ -1,13 +1,15 @@
 ---
 title: Could not find gemname in any of the sources
-layout: page
-tags:
-  - faq
-  - build error
-  - ruby
+date: 2014-09-10 00:00:00 Z
 categories:
-  - faq
+- faq
+tags:
+- faq
+- build error
+- ruby
+layout: page
 ---
+
 Sometimes you might see errors like the following:
 
 ```shell

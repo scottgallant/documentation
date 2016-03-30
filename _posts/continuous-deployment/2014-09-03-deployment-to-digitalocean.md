@@ -1,12 +1,14 @@
 ---
 title: Deploy to DigitalOcean
-layout: page
-tags:
-  - deployment
-  - digital ocean
+date: 2014-09-03 00:00:00 Z
 categories:
-  - continuous-deployment
+- continuous-deployment
+tags:
+- deployment
+- digital ocean
+layout: page
 ---
+
 ## Different Ways to Deploy
 DigitalOcean offers virtual servers (called Droplets).
 There are various ways to deploy your application to DigitalOcean.

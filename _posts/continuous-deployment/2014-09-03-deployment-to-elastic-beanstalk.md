@@ -1,13 +1,15 @@
 ---
 title: Deploy to Elastic Beanstalk
+date: 2014-09-03 00:00:00 Z
+categories:
+- continuous-deployment
+tags:
+- deployment
+- elastic beanstalk
 weight: 80
 layout: page
-tags:
-  - deployment
-  - elastic beanstalk
-categories:
-  - continuous-deployment
 ---
+
 ## Prerequisites
 
 This deployment method is not yet able to create Elastic Beanstalk environments, neither does it configure the S3 Bucket needed to upload new versions of your application. Please configure your Elastic Beanstalk environment by hand before your first deploy. All later deployments can then be handled by our integreated deployment.

@@ -1,12 +1,14 @@
 ---
 title: ElasticSearch
-layout: page
-tags:
-  - services
-  - elasticsearch
+date: 2014-08-28 00:00:00 Z
 categories:
-  - services
+- services
+tags:
+- services
+- elasticsearch
+layout: page
 ---
+
 Elasticsearch **1.2.2** runs on the default port and doesn't require any credentials.
 
 ## Special use cases

@@ -1,17 +1,19 @@
 ---
 title: Pushing to git remote fails
-layout: page
-tags:
-  - faq
-  - build error
-  - github
-  - bitbucket
-  - shallow clone
-  - push
-  - git
+date: 2014-09-10 00:00:00 Z
 categories:
-  - faq
+- faq
+tags:
+- faq
+- build error
+- github
+- bitbucket
+- shallow clone
+- push
+- git
+layout: page
 ---
+
 If you want to push to a remote git repository during your deployment steps on Codeship, and the build fails with an error message such as the following:
 
 In case you push to a remote git repository and encounter an error with an error message like the following

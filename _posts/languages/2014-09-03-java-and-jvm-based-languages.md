@@ -1,11 +1,12 @@
 ---
 title: Java and JVM based languages
-tags:
-  - java
-  - scala
-  - languages
+date: 2014-09-03 00:00:00 Z
 categories:
-  - languages
+- languages
+tags:
+- java
+- scala
+- languages
 ---
 
 ## JDKs

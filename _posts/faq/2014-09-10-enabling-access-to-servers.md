@@ -1,15 +1,17 @@
 ---
 title: How to enable access for Codeship on your Firewall
-layout: page
-tags:
-  - faq
-  - firewall
-  - security group
-  - ip addresses
-  - iam
+date: 2014-09-10 00:00:00 Z
 categories:
-  - faq
+- faq
+tags:
+- faq
+- firewall
+- security group
+- ip addresses
+- iam
+layout: page
 ---
+
 ## IP Addresses
 
 Codeship is Hosted in the US-East region of EC2. You can find all the IP Addresses allocated to EC2 in their [Developer Forum](https://forums.aws.amazon.com/ann.jspa?annID=1701).

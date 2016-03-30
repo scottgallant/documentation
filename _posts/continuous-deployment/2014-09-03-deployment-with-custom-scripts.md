@@ -1,12 +1,14 @@
 ---
 title: Deploy via Custom Scripts
-layout: page
-tags:
-  - deployment
-  - scripts
+date: 2014-09-03 00:00:00 Z
 categories:
-  - continuous-deployment
+- continuous-deployment
+tags:
+- deployment
+- scripts
+layout: page
 ---
+
 Script deployment is useful to define your custom deployment commands or execute another task after or prior to a deployment.
 
 For example:

@@ -1,12 +1,13 @@
 ---
 title: Continuous Delivery to Google Cloud Platform with Docker
-weight: 46
-tags:
-  - deployment
-  - heroku
-  - docker
+date: 2015-08-31 00:00:00 Z
 categories:
-  - docker-integration
+- docker-integration
+tags:
+- deployment
+- heroku
+- docker
+weight: 46
 ---
 
 In this article we'll walk you through using our [Google deployment docker container](https://github.com/codeship-library/google-cloud-deployment), set up authentication and interact with resources in the Google Cloud. The Google Cloud SDK is installed supporting all Google Cloud services, including App Engine (in preview), Google Compute Engine and Google Container Engine.

@@ -1,11 +1,12 @@
 ---
 title: Can't find a file in the repository, classpath or during tests
-layout: page
-tags:
-  - faq
-  - build error
+date: 2014-09-10 00:00:00 Z
 categories:
-  - faq
+- faq
+tags:
+- faq
+- build error
+layout: page
 ---
 
 When you get an error indicating that a file can't be found but you are sure it exists in the repository it might be due to case sensitivity of the file system on our machines.

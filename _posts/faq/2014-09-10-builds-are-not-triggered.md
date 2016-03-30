@@ -1,13 +1,14 @@
 ---
 title: My builds are not triggered anymore
-layout: page
-tags:
-  - faq
-  - build error
-  - github
-  - bitbucket
+date: 2014-09-10 00:00:00 Z
 categories:
-  - faq
+- faq
+tags:
+- faq
+- build error
+- github
+- bitbucket
+layout: page
 ---
 
 Builds on Codeship are triggered via a webhook from GitHub or BitBucket. We add this hook to your repository when you configure the project on Codeship, but sometimes those settings get out of sync.

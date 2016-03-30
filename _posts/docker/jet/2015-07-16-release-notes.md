@@ -1,13 +1,14 @@
 ---
 title: Jet Release Notes
+date: 2015-07-16 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- jet
+- release notes
 layout: page
 weight: 5
-tags:
-  - docker
-  - jet
-  - release notes
-categories:
-  - docker
 ---
 
 <div class="info-block">

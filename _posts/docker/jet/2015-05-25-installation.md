@@ -1,15 +1,16 @@
 ---
 title: Running Codeship Locally for Development
+date: 2015-05-25 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- jet
+- introduction
+- installation
+- running locally
 layout: page
 weight: 75
-tags:
-  - docker
-  - jet
-  - introduction
-  - installation
-  - running locally
-categories:
-  - docker
 ---
 
 <div class="info-block">

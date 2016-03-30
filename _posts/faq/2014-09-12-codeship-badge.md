@@ -1,12 +1,14 @@
 ---
 title: Adding a Codeship Badge
-layout: page
-tags:
-  - faq
-  - badge
+date: 2014-09-12 00:00:00 Z
 categories:
-  - faq
+- faq
+tags:
+- faq
+- badge
+layout: page
 ---
+
 If you want to add a badge showing your last builds status to your ReadMe, you can find the code in the **Notification** settings of your project.
 
 ![Codeship Status for codeship/documentation](https://codeship.com/projects/59a737f0-1648-0132-c4e7-72c6c37b1f6e/status?branch=master)

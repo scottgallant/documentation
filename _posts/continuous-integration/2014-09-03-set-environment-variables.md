@@ -1,11 +1,13 @@
 ---
 title: Setting Environment Variables
-weight: 60
-tags:
-  - testing
+date: 2014-09-03 00:00:00 Z
 categories:
-  - continuous-integration
+- continuous-integration
+tags:
+- testing
+weight: 60
 ---
+
 If you set environment variables, they will be available for the whole build. You can set your environment variables in two different ways:
 
 ## Environment Page on Project Settings

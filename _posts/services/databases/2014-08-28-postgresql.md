@@ -1,13 +1,15 @@
 ---
 title: PostgreSQL
-layout: page
-tags:
-  - services
-  - databases
-  - postgresql
+date: 2014-08-28 00:00:00 Z
 categories:
-  - databases
+- databases
+tags:
+- services
+- databases
+- postgresql
+layout: page
 ---
+
 * include a table of contents
 {:toc}
 

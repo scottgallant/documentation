@@ -1,13 +1,14 @@
 ---
 title: Organization Accounts
-layout: page
-tags:
-  - administration
-  - project
-  - organizations
-  - team management
+date: 2015-07-14 00:00:00 Z
 categories:
-  - administration
+- administration
+tags:
+- administration
+- project
+- organizations
+- team management
+layout: page
 ---
 
 Organizations simplify and enhance team management as well as subscription management for (larger) teams on Codeship.

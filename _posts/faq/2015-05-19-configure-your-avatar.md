@@ -1,12 +1,13 @@
 ---
 title: Configure Your Avatar
-layout: page
-tags:
-  - faq
-  - avatar
-  - gravatar
+date: 2015-05-19 00:00:00 Z
 categories:
-  - faq
+- faq
+tags:
+- faq
+- avatar
+- gravatar
+layout: page
 ---
 
 To change the avatar shown on Codeship, please head over to [Gravatar.com](http://en.gravatar.com/) and setup an avatar for both, the email address you configured in your Codeship [User Settings](https://codeship.com/user/edit) as well as for any email addresses you use in your git configuration.

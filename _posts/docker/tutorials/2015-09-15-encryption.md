@@ -1,13 +1,14 @@
 ---
-title: "Tutorial: Encrypting environment variables"
+title: 'Tutorial: Encrypting environment variables'
+date: 2015-09-15 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- tutorial
+- encryption
 layout: page
 weight: 45
-tags:
-  - docker
-  - tutorial
-  - encryption
-categories:
-  - docker
 ---
 
 If you need to make private information available to your build, you can save this information encrypted in your repository. This is most often needed to either make credentials used during deployment available or store credentials for a Docker registry. See e.g our [Docker Push]({{ site.baseurl }}{% post_url docker/tutorials/2015-07-03-docker-push %}) tutorial for a practical example.

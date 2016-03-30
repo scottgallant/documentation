@@ -1,16 +1,17 @@
 ---
 title: Configuring the project on Codeship
+date: 2015-06-11 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- jet
+- introduction
+- getting started
+- project configuration
+- tutorial
 layout: page
 weight: 84
-tags:
-  - docker
-  - jet
-  - introduction
-  - getting started
-  - project configuration
-  - tutorial
-categories:
-  - docker
 ---
 
 <div class="info-block">

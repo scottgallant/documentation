@@ -1,11 +1,12 @@
 ---
 title: Wildcard Deployments
-layout: page
-tags:
-  - deployment
-  - wildcard
+date: 2015-03-12 00:00:00 Z
 categories:
-  - continuous-deployment
+- continuous-deployment
+tags:
+- deployment
+- wildcard
+layout: page
 ---
 
 Get more flexible deployment workflows with wildcard deployment pipelines that trigger if a branch starts with a certain prefix. Use one deployment configuration for multiple branches and automatically deploy your feature, release, QA, etc. branches to the corresponding environments.

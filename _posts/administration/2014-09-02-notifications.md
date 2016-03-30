@@ -1,12 +1,14 @@
 ---
 title: Notification Setup
-layout: page
-tags:
-  - administration
-  - notifications
+date: 2014-09-02 00:00:00 Z
 categories:
-  - administration
+- administration
+tags:
+- administration
+- notifications
+layout: page
 ---
+
 ## Where can I configure Notifications
 Click the project menu on the top navigation and click the settings wheel to get to your project settings. There click the **Notifications** link.
 

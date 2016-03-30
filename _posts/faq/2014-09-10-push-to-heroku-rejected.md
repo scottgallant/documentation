@@ -1,13 +1,15 @@
 ---
 title: Pushing to Heroku fails
-layout: page
-tags:
-  - faq
-  - build error
-  - heroku
+date: 2014-09-10 00:00:00 Z
 categories:
-  - faq
+- faq
+tags:
+- faq
+- build error
+- heroku
+layout: page
 ---
+
 In case your deployment to Heroku fails with an error message similar to this:
 
 ```shell

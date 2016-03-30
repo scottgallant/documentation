@@ -1,12 +1,13 @@
 ---
-title: "Tutorial: Docker volumes"
+title: 'Tutorial: Docker volumes'
+date: 2015-09-04 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- tutorial
 layout: page
 weight: 45
-tags:
-  - docker
-  - tutorial
-categories:
-  - docker
 ---
 
 * include a table of contents

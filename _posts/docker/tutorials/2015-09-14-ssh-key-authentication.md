@@ -1,14 +1,15 @@
 ---
-title: "Tutorial: Configure SSH Key Authentication"
+title: 'Tutorial: Configure SSH Key Authentication'
+date: 2015-09-14 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- tutorial
+- ssh key
+- encryption
 layout: page
 weight: 45
-tags:
-  - docker
-  - tutorial
-  - ssh key
-  - encryption
-categories:
-  - docker
 ---
 
 During your build you might want to access other repositories to pull in dependencies or push your code to other servers.

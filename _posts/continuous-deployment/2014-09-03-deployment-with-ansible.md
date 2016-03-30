@@ -1,13 +1,15 @@
 ---
 title: Deploy via Ansible
-layout: page
+date: 2014-09-03 00:00:00 Z
 published: false
-tags:
-  - deployment
-  - ansible
 categories:
-  - continuous-deployment
+- continuous-deployment
+tags:
+- deployment
+- ansible
+layout: page
 ---
+
 Ansible is fully supported on the Codeship.
 
 ## Install ansible

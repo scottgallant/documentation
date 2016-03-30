@@ -1,11 +1,13 @@
 ---
 title: Deploy to Ninefold
-tags:
-  - deployment
-  - ninefold
+date: 2014-10-30 00:00:00 Z
 categories:
-  - continuous-deployment
+- continuous-deployment
+tags:
+- deployment
+- ninefold
 ---
+
 Deploying to [Ninefold](https://ninefold.com/) from Codeship is as simple as copying and pasting an URL!
 
 ## Deploy using the POST hook

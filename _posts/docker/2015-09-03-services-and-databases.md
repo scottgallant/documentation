@@ -1,15 +1,16 @@
 ---
 title: Supported Services and Databases
+date: 2015-09-03 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- jet
+- configuration
+- services
+- databases
 layout: page
 weight: 47
-tags:
-  - docker
-  - jet
-  - configuration
-  - services
-  - databases
-categories:
-  - docker
 ---
 
 Through Docker we support many different databases and services you can use for your build. By adding them to your `codeship-services.yml` file you have a lot of control on how to set up your build environment.

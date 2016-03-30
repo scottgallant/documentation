@@ -1,12 +1,14 @@
 ---
 title: Browser Testing
-weight: 80
-tags:
-  - testing
-  - continuous integration
+date: 2014-09-03 00:00:00 Z
 categories:
-  - continuous-integration
+- continuous-integration
+tags:
+- testing
+- continuous integration
+weight: 80
 ---
+
 ## Firefox
 Firefox 35 is installed and available in the PATH.
 

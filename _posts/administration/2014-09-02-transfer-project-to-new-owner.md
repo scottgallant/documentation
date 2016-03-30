@@ -1,12 +1,14 @@
 ---
 title: Transfer Project Ownership
-layout: page
-tags:
-  - administration
-  - project
+date: 2014-09-02 00:00:00 Z
 categories:
-  - administration
+- administration
+tags:
+- administration
+- project
+layout: page
 ---
+
 You can transfer your project to another **team member** by going to
 
 ***Project Settings > General***

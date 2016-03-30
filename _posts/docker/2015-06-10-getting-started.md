@@ -1,15 +1,16 @@
 ---
 title: Getting Started
+date: 2015-06-10 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- jet
+- introduction
+- getting started
+- tutorial
 layout: page
 weight: 85
-tags:
-  - docker
-  - jet
-  - introduction
-  - getting started
-  - tutorial
-categories:
-  - docker
 ---
 
 Welcome to a simple introductory tutorial for our Codeship _Docker Infrastructure_. This document will help you getting started and configuring a project for both building locally via _Jet_ as well as on Codeship.

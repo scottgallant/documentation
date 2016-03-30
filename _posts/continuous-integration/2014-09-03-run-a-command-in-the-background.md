@@ -1,11 +1,13 @@
 ---
 title: Run a command in the background
-tags:
-  - testing
-  - faq
+date: 2014-09-03 00:00:00 Z
 categories:
-  - continuous-integration
+- continuous-integration
+tags:
+- testing
+- faq
 ---
+
 Sometimes you might want to run a server or another process in the background. You can use the following template to run any of your commands as a background process
 
 ```shell

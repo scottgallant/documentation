@@ -1,15 +1,17 @@
 ---
 title: Access to other repositories fails during build
-layout: page
-tags:
-  - faq
-  - build error
-  - ssh key
-  - github
-  - bitbucket
+date: 2014-09-10 00:00:00 Z
 categories:
-  - faq
+- faq
+tags:
+- faq
+- build error
+- ssh key
+- github
+- bitbucket
+layout: page
 ---
+
 Some builds require access to other private repositories for example to use as a dependency. Codeship creates a SSH key pair for each project when you first configure it. You can view the public key on the _General_ page of your project settings and it gets automatically added as a deploy key to your GitHub or BitBucket repository.
 
 If you need access to other (private) repositories besides this main repository, you need to follow these steps:

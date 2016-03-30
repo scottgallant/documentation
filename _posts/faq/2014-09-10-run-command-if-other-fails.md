@@ -1,13 +1,15 @@
 ---
 title: Run a command after another command fails
-layout: page
-tags:
-  - faq
-  - build error
-  - commands
+date: 2014-09-10 00:00:00 Z
 categories:
-  - faq
+- faq
+tags:
+- faq
+- build error
+- commands
+layout: page
 ---
+
 To run another command if an earlier one fails you can use the following bash syntax
 
 ```shell

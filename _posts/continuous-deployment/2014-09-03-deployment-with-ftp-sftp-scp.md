@@ -1,14 +1,16 @@
 ---
 title: Deploy via FTP, SFTP, SCP, RSYNC and SSH
-weight: 55
-tags:
-  - deployment
-  - ftp
-  - scp
-  - rsync
+date: 2014-09-03 00:00:00 Z
 categories:
-  - continuous-deployment
+- continuous-deployment
+tags:
+- deployment
+- ftp
+- scp
+- rsync
+weight: 55
 ---
+
 We generally advise to use any SSH based tools like SFTP or SCP for deployment and only use FTP if not possible otherwise.
 
 When we checkout your repository we clone it to a folder called `clone` directly beneath the home directory. So when you see references to `~/clone/` folder, we talk about our local copy of your repository.

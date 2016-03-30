@@ -1,13 +1,15 @@
 ---
 title: Deploy to Heroku
+date: 2014-09-03 00:00:00 Z
+categories:
+- continuous-deployment
+tags:
+- deployment
+- heroku
 weight: 90
 layout: page
-tags:
-  - deployment
-  - heroku
-categories:
-  - continuous-deployment
 ---
+
 ## Settings
 Within Codeship you are able to configure [Deployment Pipelines]({{ site.baseurl }}{% post_url continuous-deployment/2014-09-03-deployment-pipelines %}). You can easily add a Heroku Deployment choosing Heroku as deployment method.
 

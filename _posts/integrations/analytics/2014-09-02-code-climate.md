@@ -1,12 +1,14 @@
 ---
 title: Code Climate Integration
-layout: page
-tags:
-  - analytics
-  - integrations
+date: 2014-09-02 00:00:00 Z
 categories:
-  - analytics
+- analytics
+tags:
+- analytics
+- integrations
+layout: page
 ---
+
 There is no specific setup necessary to use Code Climate on Codeship.
 You can follow the [Code Climate docs](http://docs.codeclimate.com/article/219-setting-up-test-coverage)
 set it up with your application and just include the Code Climate API key either

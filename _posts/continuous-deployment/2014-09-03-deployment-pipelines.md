@@ -1,11 +1,13 @@
 ---
 title: Deployment Pipelines
-layout: page
-tags:
-  - deployment
+date: 2014-09-03 00:00:00 Z
 categories:
-  - continuous-deployment
+- continuous-deployment
+tags:
+- deployment
+layout: page
 ---
+
 On Codeship, you are able to define **deployment pipelines**. A deployment pipeline is bound to a branch. Every time a build runs for this branch, it kicks off your deployment pipeline.
 
 Additionally, you can add multiple deployments within one deployment pipeline. This way, you can deploy for example to a staging environment first and only if that succeeds, to the production environment. This process is fully automated on Codeship and in case of errors you'll immediately get notified.

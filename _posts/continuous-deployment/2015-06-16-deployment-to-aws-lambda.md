@@ -1,15 +1,14 @@
 ---
 title: Deploy to AWS Lambda
-layout: page
-tags:
-  - deployment
-  - amazon
-  - lambda
+date: 2015-06-16 00:00:00 Z
 categories:
-  - continuous-deployment
+- continuous-deployment
+tags:
+- deployment
+- amazon
+- lambda
+layout: page
 ---
-
-
 
 ## General
 [AWS Lambda](http://aws.amazon.com/lambda/)  is a compute service that runs your code in response to events and automatically manages the compute resources for you, making it easy to build applications that respond quickly to new information.

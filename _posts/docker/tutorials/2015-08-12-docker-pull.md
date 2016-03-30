@@ -1,14 +1,15 @@
 ---
-title: "Tutorial: Using private base images"
+title: 'Tutorial: Using private base images'
+date: 2015-08-12 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- tutorial
+- pull
+- registry
 layout: page
 weight: 45
-tags:
-  - docker
-  - tutorial
-  - pull
-  - registry
-categories:
-  - docker
 ---
 
 ## Using private images in your builds

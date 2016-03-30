@@ -1,11 +1,13 @@
 ---
 title: Using Subdomains
-tags:
-  - subdomains
-  - testing
+date: 2014-09-03 00:00:00 Z
 categories:
-  - continuous-integration
+- continuous-integration
+tags:
+- subdomains
+- testing
 ---
+
 If you want to use Subdomains you can use a Wildcard DNS service like xip.io
 
 For example, you can use the following subdomains during your test runs.

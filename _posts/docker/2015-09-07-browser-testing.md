@@ -1,14 +1,15 @@
 ---
 title: Browser testing
+date: 2015-09-07 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- jet
+- tools
+- browser
 layout: page
 weight: 47
-tags:
-  - docker
-  - jet
-  - tools
-  - browser
-categories:
-  - docker
 ---
 
 Running on our Docker based infrastructure you have many different options to set up browser testing. Following we will describe how you can install different browsers. Please check the language documentation for specifics on how to test with your browser in a specific language.

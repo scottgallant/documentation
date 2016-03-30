@@ -1,11 +1,13 @@
 ---
 title: Git Submodules
-tags:
-  - git
-  - submodules
+date: 2014-09-03 00:00:00 Z
 categories:
-  - continuous-integration
+- continuous-integration
+tags:
+- git
+- submodules
 ---
+
 Git Submodules are initialized automatically. This will be triggered by the existence of the `.gitmodules` file in your project root.
 
 We initialize the submodules with the following git command

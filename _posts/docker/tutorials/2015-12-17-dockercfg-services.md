@@ -1,14 +1,15 @@
 ---
-title: "Tutorial: Generating Docker credentials using a service"
+title: 'Tutorial: Generating Docker credentials using a service'
+date: 2015-12-17 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- tutorial
+- push
+- registry
 layout: page
 weight: 45
-tags:
-  - docker
-  - tutorial
-  - push
-  - registry
-categories:
-  - docker
 ---
 
 * include a table of contents

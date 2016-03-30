@@ -1,12 +1,14 @@
 ---
 title: Getting started with Continuous Integration and Continuous Deployment
-layout: page
-tags:
-  - faq
-  - getting started
+date: 2014-09-10 00:00:00 Z
 categories:
-  - faq
+- faq
+tags:
+- faq
+- getting started
+layout: page
 ---
+
 * [Introduction to Continuous Integration by Martin Fowler](http://martinfowler.com/articles/continuousIntegration.html)
 * [Why Continuous Deployment by Eric Ries](http://www.startuplessonslearned.com/2009/06/why-continuous-deployment.html)
 * [A Business Case for Continuous Integration](http://blog.codeship.com/benefits-of-continuous-integration/)

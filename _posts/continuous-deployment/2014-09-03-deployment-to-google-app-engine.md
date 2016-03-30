@@ -1,13 +1,15 @@
 ---
 title: Deploy to Google App Engine
+date: 2014-09-03 00:00:00 Z
+categories:
+- continuous-deployment
+tags:
+- deployment
+- google app engine
 weight: 85
 layout: page
-tags:
-  - deployment
-  - google app engine
-categories:
-  - continuous-deployment
 ---
+
 You can deploy your [Java]({{ site.baseurl }}{% post_url languages/2014-09-03-java-and-jvm-based-languages %}), [Go]({{ site.baseurl }}{% post_url languages/2014-09-03-go %}) or [Python]({{ site.baseurl }}{% post_url languages/2014-09-03-python %}) applications to Google App Engine through Codeship.
 
 The first time you want to connect Codeship to Google App Engine we will

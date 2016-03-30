@@ -1,14 +1,15 @@
 ---
-title: "Tutorial: Pushing to a remote registry"
+title: 'Tutorial: Pushing to a remote registry'
+date: 2015-07-03 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- tutorial
+- push
+- registry
 layout: page
 weight: 45
-tags:
-  - docker
-  - tutorial
-  - push
-  - registry
-categories:
-  - docker
 ---
 
 * include a table of contents

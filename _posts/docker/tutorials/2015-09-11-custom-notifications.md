@@ -1,14 +1,15 @@
 ---
-title: "Tutorial: Custom Notifications"
+title: 'Tutorial: Custom Notifications'
+date: 2015-09-11 00:00:00 Z
+categories:
+- docker
+tags:
+- docker
+- tutorial
+- push
+- registry
 layout: page
 weight: 45
-tags:
-  - docker
-  - tutorial
-  - push
-  - registry
-categories:
-  - docker
 ---
 
 * include a table of contents

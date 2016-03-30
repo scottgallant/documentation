@@ -1,12 +1,14 @@
 ---
 title: VM and Infrastructure
-layout: page
-tags:
-  - security
-  - infrastructure
+date: 2014-09-02 00:00:00 Z
 categories:
-  - security
+- security
+tags:
+- security
+- infrastructure
+layout: page
 ---
+
 ## OS & Virtualization
 We use **Ubuntu 14.04 (Trusty Tahr)** on our test machines. To virtualize the test machines we use **Linux Containers**.
 

@@ -1,12 +1,14 @@
 ---
 title: Skipping builds
-weight: 70
-tags:
-  - testing
-  - faq
+date: 2014-09-03 00:00:00 Z
 categories:
-  - continuous-integration
+- continuous-integration
+tags:
+- testing
+- faq
+weight: 70
 ---
+
 If you use the classic infrastructure, you can add `--skip-ci` or  `[skip ci]` to the commit message of the last commit before you push and that push will be ignored. Support for skipping builds on the Docker infrastructure will be available soon.
 
 ## Ignore pull request merges

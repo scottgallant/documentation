@@ -1,12 +1,13 @@
 ---
 title: Push to Remote Repository
-layout: page
-tags:
-  - deployment
-  - git
-  - push
+date: 2015-04-24 00:00:00 Z
 categories:
-  - continuous-deployment
+- continuous-deployment
+tags:
+- deployment
+- git
+- push
+layout: page
 ---
 
 If you want to deploy your application by doing a `git push` to a remote repository please follow these steps:

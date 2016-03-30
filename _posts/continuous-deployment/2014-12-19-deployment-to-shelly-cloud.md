@@ -1,13 +1,15 @@
 ---
 title: Deploy to Shelly Cloud
+date: 2014-12-19 00:00:00 Z
+categories:
+- continuous-deployment
+tags:
+- deployment
+- shelly cloud
 weight: 90
 layout: page
-tags:
-  - deployment
-  - shelly cloud
-categories:
-  - continuous-deployment
 ---
+
 ## User
 To integrate [Shelly Cloud](https://shellycloud.com) with Codeship, you first
 have to create a special user who will perform deployments. You can do it using

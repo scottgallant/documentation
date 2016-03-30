@@ -1,10 +1,11 @@
 ---
 title: Deploy to Divshot
+date: 2014-12-04 00:00:00 Z
+categories:
+- continuous-deployment
 tags:
 - deployment
 - divshot
-categories:
-- continuous-deployment
 ---
 
 [Divshot](https://divshot.com) is a hosting tool for static websites. To deploy from Codeship to Divshot follow the steps below.

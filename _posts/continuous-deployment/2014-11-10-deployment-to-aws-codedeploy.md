@@ -1,12 +1,13 @@
 ---
 title: Deploy to AWS CodeDeploy
-layout: page
-tags:
-  - deployment
-  - amazon
-  - codedeploy
+date: 2014-11-10 00:00:00 Z
 categories:
-  - continuous-deployment
+- continuous-deployment
+tags:
+- deployment
+- amazon
+- codedeploy
+layout: page
 ---
 
 ## General
